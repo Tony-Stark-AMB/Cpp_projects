@@ -1,0 +1,6 @@
+﻿  Main.cpp
+E:\C++\Roots with nested if\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\C++\Roots with nested if\Main.cpp(22,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C++\Roots with nested if\Main.cpp(26,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C++\Roots with nested if\Main.cpp(27,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Roots with nested if.vcxproj -> E:\C++\Roots with nested if\x64\Debug\Roots with nested if.exe

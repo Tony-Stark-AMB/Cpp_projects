@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\C++\Finding root of a Quadratic Equation\Main.cpp(14,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C++\Finding root of a Quadratic Equation\Main.cpp(15,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Finding root of a Quadratic Equation.vcxproj -> E:\C++\Finding root of a Quadratic Equation\x64\Debug\Finding root of a Quadratic Equation.exe

@@ -1,0 +1,3 @@
+﻿  Main.cpp
+E:\C++\Prime Number\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Prime Number.vcxproj -> E:\C++\Prime Number\x64\Debug\Prime Number.exe

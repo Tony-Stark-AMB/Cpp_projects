@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\C++\Binary search\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\C++\Binary search\Main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Binary search.vcxproj -> E:\C++\Binary search\x64\Debug\Binary search.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find MAX of 2 numbers", "Find MAX of 2 numbers.vcxproj", "{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}.Debug|x64.ActiveCfg = Debug|x64
+		{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}.Debug|x64.Build.0 = Debug|x64
+		{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}.Debug|x86.Build.0 = Debug|Win32
+		{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}.Release|x64.ActiveCfg = Release|x64
+		{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}.Release|x64.Build.0 = Release|x64
+		{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}.Release|x86.ActiveCfg = Release|Win32
+		{2C2697A5-08DD-4B30-A0CD-008FCD5E87A5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B22DED-2CE7-4F16-8745-8101408E103E}
+	EndGlobalSection
+EndGlobal

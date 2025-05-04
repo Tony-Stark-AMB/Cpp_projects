@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\C++\Offer discounts to total bill amount\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\C++\Offer discounts to total bill amount\Main.cpp(13,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C++\Offer discounts to total bill amount\Main.cpp(16,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Offer discounts to total bill amount.vcxproj -> E:\C++\Offer discounts to total bill amount\x64\Debug\Offer discounts to total bill amount.exe
