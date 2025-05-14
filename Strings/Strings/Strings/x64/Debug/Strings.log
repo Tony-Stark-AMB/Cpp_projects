@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\C++\Strings\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\C++\Strings\Main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Strings.vcxproj -> E:\C++\Strings\x64\Debug\Strings.exe
